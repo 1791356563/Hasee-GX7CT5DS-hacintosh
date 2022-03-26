@@ -1,8 +1,13 @@
 # Hasee-GX7CT5DS-hacintosh
 
- 神舟GX7-CT5DS黑苹果EFI
+- 神舟GX7-CT5DS黑苹果EFI
+- 无需修改BIOS
+- 屏蔽独显
+
  - 神舟GX8-CT5DT测试可用，但未优化,不保证正常使用
  - oc 0.79
+ - 第三方主题
+ - 理论上神舟GX7和GX8系列核显为UHD630的机器通用，可以拿去按自己的无线网卡修改，定制一下USB即可
 
 ## 配置信息
 
