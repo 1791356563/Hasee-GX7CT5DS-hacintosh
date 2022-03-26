@@ -1,7 +1,7 @@
 # Hasee-GX7CT5DS-hacintosh
 
- 神舟GX7 CT5DS黑苹果EFI
- GX8-CT5DT测试可用，但未优化
+ 神舟GX7-CT5DS黑苹果EFI
+ - 神舟GX8-CT5DT测试可用，但未优化
  - oc 0.79
 
 ## 配置信息
